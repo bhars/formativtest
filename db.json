@@ -5,7 +5,7 @@
     "username": "Kal",
     "email": "Sincere@xyz.biz",
     "dateofbirth": "04-28-1978",
-        "address": {
+    "address": {
       "street": "Victor Plains",
       "suite": "Suite 879",
       "city": "Wisokyburgh",
@@ -28,7 +28,7 @@
     "name": "Justin Hoxel",
     "username": "tony",
     "email": "Shanna@xyz.tv",
-    "dateofbirth": "12-06-1991"
+    "dateofbirth": "12-06-1991",
     "address": {
       "street": "Victor Plains",
       "suite": "Suite 879",
